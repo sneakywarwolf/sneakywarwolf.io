@@ -4,7 +4,7 @@
 👋 Hello! I'm a security analyst with a passion for keeping digital environments secure. I have a strong background in cybersecurity principles and hands-on experience in protecting systems, networks, and data from potential threats. I am constantly striving to learn and improve my skills.
 
 ##  Certifications
-:closed_lock_with_key: <img src="https://i.gifer.com/PVtR.gif" width="20" height="20" alt="Loading">  :closed_lock_with_key: <img src="https://i.gifer.com/XVo6.gif" width="20" height="20" alt="Loading">   :closed_lock_with_key: <img src="https://i.gifer.com/SVKl.gif" width="20" height="20" alt="Loading">
+📚 <img src="images_gif/loading.gif" width="25" height="25" alt="Loading">  📚 <img src="https://i.gifer.com/XVo6.gif" width="25" height="25" alt="Loading">   📚 <img src="https://i.gifer.com/SVKl.gif" width="25" height="25" alt="Loading">
 
 ## Expertise
 💼 In my role as a security analyst, I specialize in:
@@ -14,7 +14,7 @@
 - Mobile Application Pentest
 - Mutiple Onsite VAPT projects
 
-## Projects :rocket:
+## Projects 🚀
 🔍 I have worked on various projects that involve:
 - Conducting penetration tests to identify vulnerabilities
 - Performing security assessments and audits
@@ -23,8 +23,8 @@
 
 ## Contact Me
 📬 If you have any questions, collaboration opportunities, or just want to say hi, feel free to reach out to me:
-- <a href="https://www.linkedin.com/in/sneakywarwolf"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-- <a href="https://sneakywarwolf.github.io/sneakywarwolf/"><img src="https://img.shields.io/static/v1?label=Github&message=.io&color=blueviolet" alt="Github.io">
+👉<a href="https://www.linkedin.com/in/sneakywarwolf"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+👉<a href="https://sneakywarwolf.github.io/sneakywarwolf/"><img src="https://img.shields.io/static/v1?label=Github&message=sneakywarwolf&color=blueviolet" alt="Github.io">
 
 Let's work together to make the digital world a safer place! 🌐🔒
 
