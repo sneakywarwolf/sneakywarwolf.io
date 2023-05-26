@@ -1,17 +1,12 @@
-# sneakywarwolf.io
-Under Construction:hammer:
 # Security Analyst 👨‍💻🔒
 
 ## Introduction
-👋 Hello! I'm a security analyst with a passion for keeping digital environments secure. I have a strong background in cybersecurity principles and hands-on experience in protecting systems, networks, and data from potential threats.
-
+👋 Hello! I'm a security analyst with a passion for keeping digital environments secure. I have a strong background in cybersecurity principles and hands-on experience in protecting systems, networks, and data from potential threats. I am constantly striving to learn and improve my skills.
 
 ##  Certifications
 🔐 ![Loading]
 🔐 ![Loading]
 🔐 ![Loading]
-
-
 
 ## Expertise
 💼 In my role as a security analyst, I specialize in:
@@ -21,7 +16,7 @@ Under Construction:hammer:
 - Mobile Application Pentest
 - Mutiple Onsite VAPT projects
 
-## Projects
+## Projects :rocket:
 🔍 I have worked on various projects that involve:
 - Conducting penetration tests to identify vulnerabilities
 - Performing security assessments and audits
@@ -30,12 +25,12 @@ Under Construction:hammer:
 
 ## Contact Me
 📬 If you have any questions, collaboration opportunities, or just want to say hi, feel free to reach out to me:
-- Email: security.analyst@example.com
-- LinkedIn: [Security Analyst](https://www.linkedin.com/in/nirmal-chakraborty-68649b175/)
+- <a href="https://www.linkedin.com/in/sneakywarwolf"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+- <a href="https://sneakywarwolf.github.io/sneakywarwolf/"><img src="https://img.shields.io/static/v1?label=Github.io&message=Link&color=blueviolet" alt="Github.io">
 
 Let's work together to make the digital world a safer place! 🌐🔒
 
-
+<!--
 <details>
 <p align="center">
   <a href="https://github.com/sneakywarwolf">
@@ -52,6 +47,7 @@ Let's work together to make the digital world a safer place! 🌐🔒
   </a>
 </p>
 </details>
+-->
 
 <p align="center">
   <a href="https://github.com/sneakywarwolf">
