@@ -4,7 +4,7 @@
 👋 Hello! I'm a security analyst with a passion for keeping digital environments secure. I have a strong background in cybersecurity principles and hands-on experience in protecting systems, networks, and data from potential threats. I am constantly striving to learn and improve my skills.
 
 ##  Certifications
-:closed_lock_with_key: <img src="https://i.gifer.com/g0R5.gif" width="20" height="20" alt="Loading">  :closed_lock_with_key: <img src="https://i.gifer.com/g0R5.gif" width="20" height="20" alt="Loading">   :closed_lock_with_key: <img src="https://i.gifer.com/g0R5.gif" width="20" height="20" alt="Loading">
+:closed_lock_with_key: <img src="https://i.gifer.com/PVtR.gif" width="20" height="20" alt="Loading">  :closed_lock_with_key: <img src="https://i.gifer.com/XVo6.gif" width="20" height="20" alt="Loading">   :closed_lock_with_key: <img src="https://i.gifer.com/SVKl.gif" width="20" height="20" alt="Loading">
 
 ## Expertise
 💼 In my role as a security analyst, I specialize in:
