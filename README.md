@@ -4,7 +4,7 @@
 👋 Hello! I'm a security analyst with a passion for keeping digital environments secure. I have a strong background in cybersecurity principles and hands-on experience in protecting systems, networks, and data from potential threats. I am constantly striving to learn and improve my skills.
 
 ##  Certifications
-📚<img src="images_gif/loading.gif" width="25" height="25" alt="Loading">  📚 <img src="https://i.gifer.com/XVo6.gif" width="25" height="25" alt="Loading">   📚 <img src="https://i.gifer.com/SVKl.gif" width="25" height="25" alt="Loading">
+📚<img src="images_gif/loading.gif" width="25" height="25" alt="Loading">CRTE  📚 <img src="https://i.gifer.com/XVo6.gif" width="25" height="25" alt="Loading">eWPTXv2   📚 <img src="https://i.gifer.com/SVKl.gif" width="25" height="25" alt="Loading">CEH(Practical)
 
 ## Expertise
 💼 In my role as a security analyst, I specialize in:
